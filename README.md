@@ -27,7 +27,7 @@ To get started with Foodie App, follow these simple steps:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/Foodie-App.git
+   git clone https://github.com/arpitboss/Foodie-App.git
 
 2. Navigate to the project directory:
    ```bash
